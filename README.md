@@ -4,19 +4,19 @@
 
 ###
 
-<p align="left">Bem-vindo ao repositório oficial da PLASMA, uma empresa de tecnologia dedicada ao desenvolvimento de soluções inovadoras em software. Nossa missão é criar produtos escaláveis, eficientes e de alto desempenho, utilizando as melhores tecnologias do mercado.</p>
+<p align="left">Welcome to the official repository of PLASMA, a technology company dedicated to developing innovative software solutions. Our mission is to create scalable, efficient, and high-performance products using the best technologies available in the market.</p>
 
 ###
 
-<h2 align="left">👥 Nossos Desenvolvedores</h2>
+<h2 align="left">👥 Our Developers</h2>
 
 ###
 
-<p align="left">A PLASMA é composta por um time de desenvolvedores talentosos e apaixonados por tecnologia:</p>
+<p align="left">PLASMA is composed of a team of talented developers who are passionate about technology:</p>
 
 ###
 
-| Foto | Nome |
+| Photo | Name |
 |---|---|
 | [<p align="center"><img src="Artur Neves Höpner.png" height="80" alt="Artur Neves Höpner"/></p>](https://github.com/arturTheDev17) | [**Artur Neves Höpner**](https://github.com/arturTheDev17) |
 | [<p align="center"><img src="Mateus Henrique Bosquetti.png" height="80" alt="Mateus Henrique Bosquetti"/></p>](https://github.com/mateusbosquetti) | [**Mateus Henrique Bosquetti**](https://github.com/mateusbosquetti) |
@@ -26,11 +26,11 @@
 
 ###
 
-<h2 align="left">🛠️ Tecnologias que Utilizamos</h2>
+<h2 align="left">🛠️ Technologies We Use</h2>
 
 ###
 
-<p align="left">Nossa stack inclui diversas tecnologias modernas para desenvolvimento backend, frontend, mobile e infraestrutura:</p>
+<p align="left">Our stack includes a variety of modern technologies for backend, frontend, mobile, and infrastructure development:</p>
 
 ###
 
@@ -110,22 +110,22 @@
 
 ###
 
-<h2 align="left">📌 Nossos Valores</h2>
+<h2 align="left">📌 Our Values</h2>
 
 ###
 
-<p align="left">🔹 <b>Inovação</b> – Buscamos sempre utilizar as melhores tecnologias para oferecer soluções eficientes.<br>🔹 <b>Qualidade</b> – Código limpo, testável e escalável é a nossa prioridade.<br>🔹 <b>Colaboração</b> – Trabalhamos em equipe para criar produtos de alto impacto.<br>🔹 <b>Compromisso</b> – Nosso foco é entregar sempre o melhor para nossos clientes e parceiros.</p>
+<p align="left">🔹 <b>Innovation</b> – We always strive to use the best technologies to deliver efficient solutions.<br>🔹 <b>Quality</b> – Clean, testable, and scalable code is our priority.<br>🔹 <b>Collaboration</b> – We work as a team to create high-impact products.<br>🔹 <b>Commitment</b> – Our focus is always to deliver the best for our clients and partners.</p>
 
 ###
 
-<h2 align="left">📬 Entre em Contato</h2>
+<h2 align="left">📬 Get in Touch</h2>
 
 ###
 
-<p align="left">Se deseja saber mais sobre nossos serviços ou colaborar conosco, entre em contato:</p>
+<p align="left">If you want to learn more about our services or collaborate with us, get in touch:</p>
 
 ###
 
-<p align="left">• 📧 <b>E-mail:</b> plasmadev12@gmail.com
+<p align="left">• 📧 <b>Email:</b> plasmadev12@gmail.com
 
 ###
