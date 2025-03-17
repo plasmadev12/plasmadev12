@@ -106,7 +106,7 @@
 
 ###
 
-<p align="left">🔹 </b>Inovação</b> – Buscamos sempre utilizar as melhores tecnologias para oferecer soluções eficientes.<br>🔹 </b>Qualidade</b> – Código limpo, testável e escalável é a nossa prioridade.<br>🔹 </b>Colaboração</b> – Trabalhamos em equipe para criar produtos de alto impacto.<br>🔹 </b>Compromisso</b> – Nosso foco é entregar sempre o melhor para nossos clientes e parceiros.</p>
+<p align="left">🔹 <b>Inovação</b> – Buscamos sempre utilizar as melhores tecnologias para oferecer soluções eficientes.<br>🔹 <b>Qualidade</b> – Código limpo, testável e escalável é a nossa prioridade.<br>🔹 <b>Colaboração</b> – Trabalhamos em equipe para criar produtos de alto impacto.<br>🔹 <b>Compromisso</b> – Nosso foco é entregar sempre o melhor para nossos clientes e parceiros.</p>
 
 ###
 
