@@ -14,7 +14,13 @@
 
 ###
 
-<p align="left">• Pedro Henrique Panstein<br>• Artur Neves Höpner<br>• Mateus Henrique Bosquetti<br>• Saymon Oliveira de Castro<br>• Pedro Augusto Wilhelm</p>
+| Foto | Nome |
+|---|---|
+| [<p align="center"><img src="Artur Neves Höpner.png" height="80" alt="Artur Neves Höpner"/></p>](https://github.com/arturTheDev17) | [**Artur Neves Höpner**](https://github.com/arturTheDev17) |
+| [<p align="center"><img src="Mateus Henrique Bosquetti.png" height="80" alt="Mateus Henrique Bosquetti"/></p>](https://github.com/mateusbosquetti) | [**Mateus Henrique Bosquetti**](https://github.com/mateusbosquetti) |
+| [<p align="center"><img src="Pedro Augusto Wilhelm.png" height="80" alt="Pedro Augusto Wilhelm"/></p>](https://github.com/Hivqs79) | [**Pedro Augusto Wilhelm**](https://github.com/Hivqs79) |
+| [<p align="center"><img src="Pedro Henrique Panstein.png" height="80" alt="Pedro Henrique Panstein"/></p>](https://github.com/Pedro-Panstein) | [**Pedro Henrique Panstein**](https://github.com/Pedro-Panstein) |
+| [<p align="center"><img src="Saymon Oliveira de Castro.png" height="80" alt="Saymon Oliveira de Castro"/></p>](https://github.com/SaymonTheDev7) | [**Saymon Oliveira de Castro**](https://github.com/SaymonTheDev7) |
 
 ###
 
