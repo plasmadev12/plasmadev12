@@ -118,6 +118,6 @@
 
 ###
 
-<p align="left">• 📧 <b>E-mail:</b> plasmadev12@gmail.com<br>• 🌐
+<p align="left">• 📧 <b>E-mail:</b> plasmadev12@gmail.com
 
 ###
