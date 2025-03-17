@@ -1,4 +1,6 @@
-<h1 align="left">🚀 PLASMA - Tecnologia e Inovação</h1>
+<img src="LogoPlasmaBlue.svg" height="60" align="left" alt="PLASMA"/>
+
+<h1 align="center">PLASMA</h1>
 
 ###
 
